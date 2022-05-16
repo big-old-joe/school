@@ -1,0 +1,12 @@
+.School_mainDiv
+{
+    border:1px solid red;
+}
+.School_mainDiv img
+{
+    width: 100%;
+}
+.School_mainDiv h5, .School_mainDiv p
+{
+    margin: 20px;
+}
